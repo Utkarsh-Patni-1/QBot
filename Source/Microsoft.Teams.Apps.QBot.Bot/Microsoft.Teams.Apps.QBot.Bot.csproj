@@ -414,7 +414,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\EncryptionHelper\EncryptionHelper.csproj">
-      <Project>{8392407D-7934-4D2A-B0F0-BD6E866A2E38}</Project>
+      <Project>{8392407d-7934-4d2a-b0f0-bd6e866a2e38}</Project>
       <Name>EncryptionHelper</Name>
     </ProjectReference>
     <ProjectReference Include="..\Microsoft.Teams.Apps.QBot.Data\Microsoft.Teams.Apps.QBot.Data.csproj">
