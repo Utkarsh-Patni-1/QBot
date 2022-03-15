@@ -1,7 +1,7 @@
 export const environment = {
     production: false,
     apiBaseUrl: "https://qbot-plus-utkarsh.azurewebsites.net/api/Request/",
-
+    //This is local
     authConfig: {
         instance: "https://login.microsoftonline.com/",
         tenantId: "8dfd8a9b-74f2-43fa-985d-24c342cd7108",
