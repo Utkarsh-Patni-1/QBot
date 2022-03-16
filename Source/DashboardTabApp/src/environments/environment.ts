@@ -1,11 +1,11 @@
 export const environment = {
     production: false,
-    apiBaseUrl: "https://qbot-plus-utkarsh.azurewebsites.net/api/Request/",
+    apiBaseUrl: "https://qbot-utkarsh-edu.azurewebsites.net/api/Request/",
 
     authConfig: {
         instance: "https://login.microsoftonline.com/",
-        tenantId: "8dfd8a9b-74f2-43fa-985d-24c342cd7108",
-        clientId: "d4cb612d-dcb8-40c1-9889-10fa9d64e1f4",
+        tenantId: "569188aa-58a1-40d3-bb39-5a0c569ea981",
+        clientId: "c5acddb9-aa14-4055-8860-3962be8c88b1",
         redirectUri: "/app-silent-end",
         cacheLocation: "localStorage",
         navigateToLoginRequestUrl: false,
